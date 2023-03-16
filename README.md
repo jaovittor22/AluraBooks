@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://jaovittor22.github.io/gerador-de-senha/
+https://jaovittor22.github.io/AluraBooks/
 
 O Alura Book é uma aplicação front-end que tem como objetivo treinar métodos arrays, apresentando livros e filtrando eles de acordo com o esperado.
 
